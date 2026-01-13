@@ -1,1 +1,1 @@
-# Lab_practical
+# Python Programming CSE 210
