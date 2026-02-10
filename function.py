@@ -47,4 +47,16 @@ s = "I am busy rn"
 words = s.split()
 words1=words[::-1]
 reverse_words = " ".join(words1)
+
 print(reverse_words)
+
+# 4
+z=[2,5,4,10,1,5,3]
+print(z[-2:-6:-1])
+
+# 5
+b=([2,3],[4,5,10])
+b[0].append(8)
+print(b)
+b[0][0]=9
+print(b)
