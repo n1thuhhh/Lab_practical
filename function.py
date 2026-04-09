@@ -19,11 +19,6 @@ tup=("My","name","is","Nitesh","Gupta")
 str2="#".join(tup)
 print(str2)
 
-
-
-
-
-
 # 1
 a=[12,3,4,5,2,3,7,9,3,6,3]
 b=a
